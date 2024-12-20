@@ -5,7 +5,7 @@ developer: (https://t.me/hidden9090)
 
 ![red](https://github.com/user-attachments/assets/71ee8db2-fe7a-408b-9882-bdb0ba4b58fd)
 
-# WHAT IS PHISHLET ?        
+# WHAT IS PHISHLET ?         
 Phishlet is a tool that captures users' data credentials and users'cookies of original websites, this is called reverse proxy.
 With a phishlet, you can easily clone any website by redirecting users to the original URL while users automatically parse the data through the phishlet server interacting between the users and the original websites.
 
