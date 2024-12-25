@@ -3,6 +3,10 @@ Reverse proxy implementation to any kind of phishlets. Creating evilginx phishle
  
 developer: (https://t.me/hidden9090)      
 
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
+
 ![red](https://github.com/user-attachments/assets/71ee8db2-fe7a-408b-9882-bdb0ba4b58fd)
 
 # WHAT IS PHISHLET ?          
@@ -26,5 +30,9 @@ ASK FOR ANY PHISHLET
 
 
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 https://t.me/+1tDzjSCGDDs0ODA9
